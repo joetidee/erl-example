@@ -1,0 +1,5 @@
+--colors
+--require source-map-support/register
+--require jsdomSetup.js
+--webpack-config webpack.test.config.js
+test.js
